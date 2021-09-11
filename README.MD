@@ -2,4 +2,4 @@
 
 ### About the project
 
-This project was made for my Core Interaction 1 class at Parsons using HTML & CSS. This project is live at sidhyatikku.com/interview
+This project was made for my Core Interaction 1 class at Parsons using HTML & CSS. This project is live at https://sidhyatikku.com/interview
