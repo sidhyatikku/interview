@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    background-color: #c2f4ff;
+    color:#021857;
+
+}
+
+.intro_interview {
+    margin-top: 5vh;
+    text-align: center;
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.intro_welcome {
+    margin-top: 1vh;
+    text-align: center;
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.list_title {
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.main_list {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.chrysler_image {
+    display: block;
+    align-content: center;
+}
+
+.portfolio_link {
+    background-color: #ff2448;
+    text-decoration: none;
+    border: none;
+    color: #ffffff;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 50px;
+}
+.portfolio_link:hover {
+    box-shadow: 0px 4px 12px #1f1f1f;
+    animation-delay: 0.4 ease-in;
+}
+
+.questions_list {
+    text-align: center;
+    margin-top: 10vh;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+.q_1 {
+    color: #3000a1;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5vw;
+    margin-top: 0;
+
+}
+
+.q_2 {
+    color: #3000a1;
+    display: inline-block;
+    text-decoration: none;
+    margin: 5vw;
+    margin-top: 0;
+
+}
+
+.q_3 {
+    color: #3000a1;
+    display: inline-block;
+    text-decoration: none;
+    margin: 5vw;
+    margin-top: 0;
+
+}
+
+.q_4 {
+    color: #3000a1;
+    display: inline-block;
+    text-decoration: none;
+    margin: 5vw;
+    margin-top: 0;
+
+}
+
+.q_5 {
+    color: #3000a1;
+    display: inline-block;
+    text-decoration: none;
+    margin: 5vw;
+    margin-top: 0;
+
+}
+
+.q_6 {
+    color: #3000a1;
+    display: inline-block;
+    text-decoration: none;
+    margin: 5vw;
+    margin-top: 0;
+
+}
+
+.q_7 {
+    color: #3000a1;
+    display: inline-block;
+    text-decoration: none;
+    margin: 5vw;
+    margin-top: 0;
+
+}
+
+.q_8 {
+    color: #3000a1;
+    display: inline-block;
+    text-decoration: none;
+    margin: 5vw;
+    margin-top: 0;
+
+}
+
+.q_9 {
+    color: #3000a1;
+    display: inline-block;
+    text-decoration: none;
+    margin: 5vw;
+    margin-top: 0;
+
+}
+
+.q_10 {
+    color: #3000a1;
+    display: inline-block;
+    text-decoration: none;
+    margin: 5vw;
+    margin-top: 0;
+
+}
+
+section {
+    background-image: url("../images/esb.jpg");
+    height: 200px;
+    width: 400px;
+    background-position: center center;
+}
+
+footer {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 10vh;
+}
